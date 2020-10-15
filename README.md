@@ -17,16 +17,14 @@ Last updated: 2020-10-02T14:27:35.569Z
 - Tinned Fish
 <!-- summary_marker ends -->
 
-### Contact Details
-
-- e: foodbank@cheltenhamelim.org
-- t: 01242 570 080
-- a: Elim Christian Centre
-     115-117 St George's Road
-     Cheltenham
-     GL50 3EG
-- network: Trussell Trust
-
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
 
-Charity Number [251549](https://beta.charitycommission.gov.uk/charity-details/?regId=251549)
+### Contact Details
+
+<!-- contact_marker starts -->
+- Email: foodbank@cheltenhamelim.org
+- tel: 01242570080
+- Address: Elim Christian Centre 115-117 St George's Road Cheltenham GL50 3EG
+- Network: Trussell Trust
+- Charity number: [251549](https://beta.charitycommission.gov.uk/charity-details/?regId=251549)
+<!-- contact_marker ends -->
