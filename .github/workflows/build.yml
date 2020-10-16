@@ -3,7 +3,7 @@ name: Daily Build
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '13 11 * * *'
+    - cron:  '13 11 */5 * *'
 
 jobs:
   build:
