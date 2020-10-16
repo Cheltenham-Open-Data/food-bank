@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Cheltenham food bank data
-description: Archive of [GiveFood API](https://www.givefood.org.uk/api/2/foodbank/cheltenham/) to track local food bank needs over time.
+description: Archive of GiveFood API to track local food bank needs over time.
 logo: foodbank.jpg
 show_downloads: false
+api_url: https://www.givefood.org.uk/api/2/foodbank/cheltenham/
