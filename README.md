@@ -1,6 +1,6 @@
 # cheltenham foodbank data
 
-Archive of https://www.givefood.org.uk/api/2/foodbank/cheltenham/ to track needs overtime.
+Archive of https://www.givefood.org.uk/api/2/foodbank/cheltenham/ to track needs over time.
 
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
