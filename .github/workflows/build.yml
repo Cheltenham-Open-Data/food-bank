@@ -1,4 +1,4 @@
-name: Daily Build
+name: Scheduled Build
 # build and tweet
 on:
   workflow_dispatch:
