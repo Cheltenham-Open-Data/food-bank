@@ -23,7 +23,7 @@ Last updated: 2020-10-02T14:27:35.569Z
 
 <!-- contact_marker starts -->
 - Email: foodbank@cheltenhamelim.org
-- tel: 01242570080
+- Tel: 01242570080
 - Address: Elim Christian Centre 115-117 St George's Road Cheltenham GL50 3EG
 - Network: Trussell Trust
 - Charity number: [251549](https://beta.charitycommission.gov.uk/charity-details/?regId=251549)
