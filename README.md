@@ -1,4 +1,9 @@
-# cheltenham foodbank data
+---
+
+title: cheltenham foodbank data
+description: Cheltenham food bank data archive to track local needs over time.
+
+---
 
 Archive of https://www.givefood.org.uk/api/2/foodbank/cheltenham/ to track needs over time.
 
