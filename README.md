@@ -1,7 +1,7 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2020-10-02T14:27:35.569Z
+Last updated: 2020-10-02
 
 - Shaving Cream
 - Men's Toiletries
