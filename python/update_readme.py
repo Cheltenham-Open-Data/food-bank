@@ -3,14 +3,14 @@ import helper
 import random
 import pathlib
 import json
-
+from datetime import datetime
 
 # setup
 root = pathlib.Path(__file__).parent.parent.resolve()
 with open(root / "foodbank.json", 'r') as filehandle:
     data = json.load(filehandle)
     needs = data['need']['needs']
-    date = data['need']['created']
+    date = datetime.strptime(data['need']['created'], '%Y-%m-%d')
     output = f"## List of needed items in Cheltenham\n\n"
     output += f"Last updated: {date}\n\n"
     output += f"- {needs}".replace("\n", "\n- ")
