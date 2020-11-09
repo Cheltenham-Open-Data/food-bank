@@ -4,4 +4,4 @@ description: Archive of GiveFood API to track local food bank needs over time.
 logo: foodbank.jpg
 show_downloads: false
 api_url: https://www.givefood.org.uk/api/2/foodbank/cheltenham/
-
+markdown: kramdown
