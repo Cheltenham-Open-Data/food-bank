@@ -1,16 +1,10 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2020-10-02
+Last updated: 2020-11-06
 
-- Shaving Cream
-- Men's Toiletries
-- Toilet Rolls
-- Size 5 Nappies
-- Instant Mash Potato
-- Tinned Meat
-- Tinned Vegetarian Meals
-- Tinned Fish
+- Men's Deodorant
+- Washing Powder Capsules
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
