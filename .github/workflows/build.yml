@@ -15,7 +15,7 @@ jobs:
         fetch-depth: 0
     - name: Download Feed
       run: |-
-        curl "https://www.givefood.org.uk/api/2/foodbank/Cheltenham/" | jq . > foodbank.json
+        curl "https://www.givefood.org.uk/api/2/foodbank/cheltenham/" | jq . > foodbank.json
     - name: Commit and push changes
       run: |-
         git diff
