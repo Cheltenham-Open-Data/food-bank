@@ -1,11 +1,8 @@
 # importing modules
 import helper
-import random
 import pathlib
 import json
-from datetime import datetime
 
-# setup
 root = pathlib.Path(__file__).parent.parent.resolve()
 with open(root / "foodbank.json", 'r') as filehandle:
     data = json.load(filehandle)
