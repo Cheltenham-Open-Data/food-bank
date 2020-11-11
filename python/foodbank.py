@@ -7,7 +7,7 @@ import os
 city = os.getenv('city_code') or 'cheltenham'
 
 def get_data_from_endpoint():
-    endpoint = (f'https://www.givefood.org.uk/api/2/foodbank/{city}/')
+    endpoint = (f'https://www.givefood.org.uk/api/2/foodbank/Cheltenham/')
     response = get(endpoint, timeout=10)
     if response.status_code >= 400:
         raise RuntimeError(f'Request failed: { response.text }')

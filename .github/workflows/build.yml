@@ -11,6 +11,18 @@ jobs:
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Download Feed
+      run: |-
+        curl "https://www.givefood.org.uk/api/2/foodbank/Cheltenham/'" | jq . > foodbank.json
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git diff --quiet || (git add -A && git commit -m "Updated with latest")
+        git push
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
@@ -26,15 +38,12 @@ jobs:
       run: |
         python -m pip install -r requirements.txt
     - name: Processing
-      env:
-          city_code: ${{ secrets.CITY_CODE }}
       run: |-
-        python 'python/foodbank.py'
         python 'python/update_readme.py'
     - name: Commit and push if changed
       run: |-
         git diff
-        git config --global user.email "foodbank-bot@example.com"
-        git config --global user.name "foodbank-bot"
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
         git diff --quiet || (git add -A && git commit -m "Updated data")
         git push
