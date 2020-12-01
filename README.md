@@ -1,16 +1,12 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2020-11-13
+Last updated: 2020-11-26
 
-- Men's Deodorant And Toiletries
-- Washing Powder Capsules
-- Tinned Vegetables
-- Chocolate Advent Calendars - Needed By November 20th
-- Christmas Chocolates - Needed By December 11th
-- Small Cuddly Toys - Needed By December 11th
-- Small Tree Decorations - Needed By December 11th
-- Colouring Books And Colours - Needed By December 11th
+- Men's Shaving Foam And Razors
+- Long Life Fruit Juice
+- Washing Up Liquid
+- Tinned Meat
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
