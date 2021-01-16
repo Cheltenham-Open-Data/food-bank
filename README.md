@@ -1,12 +1,18 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2020-11-26
+Last updated: 2021-01-15
 
-- Men's Shaving Foam And Razors
-- Long Life Fruit Juice
-- Washing Up Liquid
-- Tinned Meat
+- Shampoo
+- Toilet Roll
+- Coffee
+- Cold Tinned Meat
+- Instant Mash Potato
+- Ketchup
+- Brown Sauce
+- Mayonnaise
+- Toothbrushes
+- Jam
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
