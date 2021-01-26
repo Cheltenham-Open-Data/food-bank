@@ -1,7 +1,7 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2021-01-15
+Last updated: 2021-01-22
 
 - Shampoo
 - Toilet Roll
@@ -13,6 +13,8 @@ Last updated: 2021-01-15
 - Mayonnaise
 - Toothbrushes
 - Jam
+- Size One Nappies
+- Women's Deodorant
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
