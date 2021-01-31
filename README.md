@@ -1,9 +1,8 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2021-01-22
+Last updated: 2021-01-29
 
-- Shampoo
 - Toilet Roll
 - Coffee
 - Cold Tinned Meat
@@ -11,8 +10,6 @@ Last updated: 2021-01-22
 - Ketchup
 - Brown Sauce
 - Mayonnaise
-- Toothbrushes
-- Jam
 - Size One Nappies
 - Women's Deodorant
 <!-- summary_marker ends -->
