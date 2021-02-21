@@ -10,6 +10,18 @@
   "created": "2019-11-15T17:12:20.382Z",
   "nearby_foodbanks": [
     {
+      "address": "Ron Smith Pavilion\r\nSpringbank Way\r\nCheltenham\r\nGloucestershire\r\nGL51 0LH",
+      "lat_lng": "51.9137486,-2.1158427",
+      "name": "Springbank Community Group",
+      "urls": {
+        "self": "https://www.givefood.org.uk/api/2/foodbank/springbank-community-group/",
+        "html": "https://www.givefood.org.uk/needs/at/springbank-community-group/",
+        "homepage": "https://www.springbankcommunitygroup.org",
+        "shopping_list": "https://www.springbankcommunitygroup.org"
+      },
+      "slug": "springbank-community-group"
+    },
+    {
       "address": "George Whitfield Centre,\r\n107 Great Western Road,\r\nGloucester\r\nGL1 3NF",
       "lat_lng": "51.8665059,-2.2391061",
       "name": "Gloucester",
@@ -116,18 +128,6 @@
         "shopping_list": "https://malvernhills.foodbank.org.uk/give-help/donate-food/"
       },
       "slug": "malvern-hills"
-    },
-    {
-      "address": "7 Lowesmoor Wharf\r\nLowesmoor\r\nWorcester\r\nWR1 2RS",
-      "lat_lng": "52.1953383,-2.2171118",
-      "name": "Worcester",
-      "urls": {
-        "self": "https://www.givefood.org.uk/api/2/foodbank/worcester/",
-        "html": "https://www.givefood.org.uk/needs/at/worcester/",
-        "homepage": "https://worcester.foodbank.org.uk",
-        "shopping_list": "https://worcester.foodbank.org.uk/give-help/donate-food/"
-      },
-      "slug": "worcester"
     }
   ],
   "locations": [],
