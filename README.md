@@ -1,17 +1,15 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2021-01-29
+Last updated: 2021-02-26
 
 - Toilet Roll
+- UHT Milk
+- Tinned Fruit
+- Ladies Deodorant
+- Toothbrushes
+- Nappies Size 6
 - Coffee
-- Cold Tinned Meat
-- Instant Mash Potato
-- Ketchup
-- Brown Sauce
-- Mayonnaise
-- Size One Nappies
-- Women's Deodorant
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
