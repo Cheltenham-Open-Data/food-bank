@@ -1,14 +1,19 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2021-02-26
+Last updated: 2021-03-30
 
 - Toilet Roll
 - UHT Milk
+- Long Life Fruit Juice
 - Tinned Fruit
-- Ladies Deodorant
+- Ladies Deodrant
 - Toothbrushes
-- Nappies Size 6
+- Tinned Cold Meat
+- Sponge Puddings
+- Jam
+- Tinned Fish
+- Tinned Vegetables
 - Coffee
 <!-- summary_marker ends -->
 
