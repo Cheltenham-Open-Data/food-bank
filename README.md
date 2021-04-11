@@ -1,20 +1,14 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2021-03-30
+Last updated: 2021-04-09
 
-- Toilet Roll
-- UHT Milk
-- Long Life Fruit Juice
 - Tinned Fruit
-- Ladies Deodrant
-- Toothbrushes
-- Tinned Cold Meat
-- Sponge Puddings
-- Jam
-- Tinned Fish
 - Tinned Vegetables
-- Coffee
+- Tinned Cold Meat
+- Size 4 Nappies
+- Shampoo
+- Sponge Puddings
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
