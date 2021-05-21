@@ -1,15 +1,17 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2021-04-23
+Last updated: 2021-05-14
 
 - Tinned Fruit
 - Tinned Vegetables
 - Tinned Cold Meat
 - Childrens Toothpaste
 - Long Life Fruit Juice
-- Men's Deodorant
+- Mens Deodrant
 - Sponge Puddings
+- Fairy Liquid
+- Mens Shower Gel
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
