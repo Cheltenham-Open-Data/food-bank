@@ -1,16 +1,16 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2021-06-03
+Last updated: 2021-07-28
 
-- Washing Up Liquid - Urgent
+- Dog Food
 - Instant Mash Potato
-- Toothpaste
-- Long Life Fruit Juice
+- Toothbrushes
+- Tinned Cold Meat
 - Shampoo
-- Tomato Ketchup
-- Brown Sauce
-- Mayonnaise
+- Ladies Razors
+- Rice Pudding And Custard
+- Sponge Puggings
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
