@@ -1,18 +1,12 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2021-09-21
+Last updated: 2021-10-15
 
-- Chocolates
-- Biscuits
-- Dog Food
-- Instant Mash Potato
-- Toothbrushes
-- Tinned Cold Meat
+- Washing Powder Capsules
 - Shampoo
-- Coffee
-- UHT Milk
-- Jam
+- Conditioner
+- Shaving Gel
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
