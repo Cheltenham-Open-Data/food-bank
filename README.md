@@ -1,12 +1,19 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2021-10-15
+Last updated: 2021-12-02
 
-- Washing Powder Capsules
-- Shampoo
-- Conditioner
-- Shaving Gel
+- Mens Toiletries
+- Toilet Rolls
+- Christmas Puddings
+- Mince Pies
+- Christmas Snacks - Cheeselets Ect
+- Marshmallows
+- Christmas Cakes, Sweets And Biscuits
+- Pickle, Pickles, Cranberry Sauce
+- Turkey Gravy
+- Stuffing
+- Crackers
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
