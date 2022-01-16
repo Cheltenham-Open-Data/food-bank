@@ -1,19 +1,17 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2021-12-02
+Last updated: 2022-01-11
 
-- Mens Toiletries
+- Mens Shaving Foam And Razors
 - Toilet Rolls
-- Christmas Puddings
-- Mince Pies
-- Christmas Snacks - Cheeselets Ect
-- Marshmallows
-- Christmas Cakes, Sweets And Biscuits
-- Pickle, Pickles, Cranberry Sauce
-- Turkey Gravy
-- Stuffing
-- Crackers
+- Size 3 Nappies
+- Tinned Fish
+- Long Life Fruit Juice
+- Ketchup
+- Brown Sauce
+- Mayonnaise
+- Tinned Vegetables
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
