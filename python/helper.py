@@ -1,7 +1,7 @@
 import re
 import json
 from datetime import datetime
-
+from dateutil.parser import parse
 
 def replace_chunk(content, marker, chunk):
     replacer = re.compile(
@@ -25,4 +25,5 @@ def pprint(string):
     print(json_formatted_str)
 
 def date_to_iso(string):
-    return datetime.strptime(string, '%Y-%m-%dT%H:%M:%S.%fZ').strftime('%Y-%m-%d')
+    dt = parse(srtring)
+    return dt.strftime('%Y-%m-%d')
