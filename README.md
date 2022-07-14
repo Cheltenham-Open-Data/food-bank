@@ -1,17 +1,18 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2022-01-11
+Last updated: 2022-06-17
 
-- Mens Shaving Foam And Razors
-- Toilet Rolls
-- Size 3 Nappies
-- Tinned Fish
-- Long Life Fruit Juice
-- Ketchup
-- Brown Sauce
-- Mayonnaise
-- Tinned Vegetables
+- Fruit Juice
+- Sweets
+- Chocolate
+- Jars Of Coffee
+- Deodorant
+- Shampoo
+- Shower Gel
+- Cold Tinned Meat
+- Noodles
+- Packet Desserts
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
