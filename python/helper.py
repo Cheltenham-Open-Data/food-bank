@@ -25,5 +25,5 @@ def pprint(string):
     print(json_formatted_str)
 
 def date_to_iso(string):
-    dt = parse(srtring)
+    dt = parse(string)
     return dt.strftime('%Y-%m-%d')
