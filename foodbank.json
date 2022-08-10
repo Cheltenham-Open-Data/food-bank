@@ -96,10 +96,10 @@
     }
   },
   "need": {
-    "id": "422e8369",
-    "needs": "Fruit Juice\nSweets\nChocolate\nJars Of Coffee\nDeodorant\nShampoo\nShower Gel\nCold Tinned Meat\nNoodles\nPacket Desserts",
-    "created": "2022-06-17T13:01:52.920",
-    "self": "https://www.givefood.org.uk/api/2/need/422e8369/"
+    "id": "20bb1caf",
+    "needs": "Long Life Fruit Juice\nSweets\nChocolate\nCold Tinned Meat\nAdult Toothbrushes\nRazors\nWashing Up Liqiud\nTinned Soup\nSponge Puddings\nMen's Deodorant\nShaving Foam",
+    "created": "2022-08-08T14:52:25.379",
+    "self": "https://www.givefood.org.uk/api/2/need/20bb1caf/"
   },
   "nearby_foodbanks": [
     {
