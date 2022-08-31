@@ -1,19 +1,18 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2022-08-08
+Last updated: 2022-08-30
 
-- Long Life Fruit Juice
-- Sweets
-- Chocolate
-- Cold Tinned Meat
-- Adult Toothbrushes
-- Razors
+- Washing Capsules
+- Washing Up Liquid
+- Mayonnaise
+- Tinned Fruit
+- Sweet Snacks
+- Biscuits
 - Washing Up Liqiud
-- Tinned Soup
-- Sponge Puddings
-- Men's Deodorant
-- Shaving Foam
+- Tinned Cold Meat
+- Shampoo
+- Rice Pudding
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
