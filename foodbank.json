@@ -88,7 +88,7 @@
     "parliamentary_constituency": "Cheltenham",
     "mp": "Alex Chalk",
     "mp_party": "Conservative",
-    "ward": "St Peter's",
+    "ward": "St. Peter's",
     "district": "Cheltenham",
     "urls": {
       "self": "https://www.givefood.org.uk/api/2/constituency/cheltenham/",
@@ -96,10 +96,10 @@
     }
   },
   "need": {
-    "id": "20bb1caf",
-    "needs": "Long Life Fruit Juice\nSweets\nChocolate\nCold Tinned Meat\nAdult Toothbrushes\nRazors\nWashing Up Liqiud\nTinned Soup\nSponge Puddings\nMen's Deodorant\nShaving Foam",
-    "created": "2022-08-08T14:52:25.379",
-    "self": "https://www.givefood.org.uk/api/2/need/20bb1caf/"
+    "id": "e7d679c2",
+    "needs": "Washing Capsules\nWashing Up Liquid\nMayonnaise\nTinned Fruit\nSweet Snacks\nBiscuits\nWashing Up Liqiud\nTinned Cold Meat\nShampoo\nRice Pudding",
+    "created": "2022-08-30T11:01:56.693",
+    "self": "https://www.givefood.org.uk/api/2/need/e7d679c2/"
   },
   "nearby_foodbanks": [
     {
