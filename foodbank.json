@@ -96,10 +96,10 @@
     }
   },
   "need": {
-    "id": "e7d679c2",
-    "needs": "Washing Capsules\nWashing Up Liquid\nMayonnaise\nTinned Fruit\nSweet Snacks\nBiscuits\nWashing Up Liqiud\nTinned Cold Meat\nShampoo\nRice Pudding",
-    "created": "2022-08-30T11:01:56.693",
-    "self": "https://www.givefood.org.uk/api/2/need/e7d679c2/"
+    "id": "be68599a",
+    "needs": "Soup\nToilet Roll\nMayonnaise\nTinned Fruit\nSweet Snacks And Chocolate\nBiscuits\nJam\nTinned Cold Meat\nDog Food\nRice Pudding / Custard\nLong Life Milk\nLong Life Fruit Juice\nSavoury Snacks",
+    "created": "2022-09-22T13:28:27.937",
+    "self": "https://www.givefood.org.uk/api/2/need/be68599a/"
   },
   "nearby_foodbanks": [
     {
