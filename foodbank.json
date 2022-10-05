@@ -96,10 +96,10 @@
     }
   },
   "need": {
-    "id": "be68599a",
-    "needs": "Soup\nToilet Roll\nMayonnaise\nTinned Fruit\nSweet Snacks And Chocolate\nBiscuits\nJam\nTinned Cold Meat\nDog Food\nRice Pudding / Custard\nLong Life Milk\nLong Life Fruit Juice\nSavoury Snacks",
-    "created": "2022-09-22T13:28:27.937",
-    "self": "https://www.givefood.org.uk/api/2/need/be68599a/"
+    "id": "95cc7949",
+    "needs": "Toilet Rolls\nWashing Up Liquid\nMens Shower Gel\nWomen's Shower Gel\nShampoo\nDeodorant\nSweets And Chocolate\nSoup\nTinned Cold Meat\nInstant Mash\nNoodles\nTinned Fruit\nCat And Dog Food",
+    "created": "2022-10-04T11:04:31.874",
+    "self": "https://www.givefood.org.uk/api/2/need/95cc7949/"
   },
   "nearby_foodbanks": [
     {
