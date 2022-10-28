@@ -1,21 +1,19 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2022-10-04
+Last updated: 2022-10-27
 
-- Toilet Rolls
-- Washing Up Liquid
+- Tinned Vegetables
+- Tinned Fruit
 - Mens Shower Gel
-- Women's Shower Gel
-- Shampoo
+- Tinned Rice Pudding And Custard
+- Savoury Snacks
 - Deodorant
 - Sweets And Chocolate
-- Soup
+- Tinned Soup
 - Tinned Cold Meat
 - Instant Mash
-- Noodles
-- Tinned Fruit
-- Cat And Dog Food
+- Christmas Food Items Eg Christmas Cake, Sweets, Savoury Snacks.
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
