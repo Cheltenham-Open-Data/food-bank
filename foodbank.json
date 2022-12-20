@@ -5,10 +5,10 @@
   "phone": "01242570080",
   "secondary_phone": null,
   "email": "foodbank@cheltenhamelim.org",
-  "address": "Elim Christian Centre\r\n115-117 St George's Road\r\nCheltenham\r\nGL50 3EG",
-  "postcode": "GL50 3EG",
+  "address": "Cheltenham Elim Church\r\n115-117 St George's Road\r\nCheltenham\r\nGL50 3ED",
+  "postcode": "GL50 3ED",
   "closed": false,
-  "lat_lng": "51.9010602,-2.0856842",
+  "lat_lng": "51.90106189999999,-2.0857061",
   "network": "Trussell Trust",
   "created": "2019-11-15T17:12:20.382",
   "urls": {
@@ -88,7 +88,7 @@
     "parliamentary_constituency": "Cheltenham",
     "mp": "Alex Chalk",
     "mp_party": "Conservative",
-    "ward": "St. Peter's",
+    "ward": "Lansdown",
     "district": "Cheltenham",
     "urls": {
       "self": "https://www.givefood.org.uk/api/2/constituency/cheltenham/",
@@ -185,7 +185,7 @@
         "shopping_list": "http://www.chands.org.uk/how_to_help.htm"
       },
       "address": "Vale Of Evesham Christian Centre\r\nBewdley Street\r\nEvesham\r\nWR11 4AD",
-      "lat_lng": "52.092804,-1.949451"
+      "lat_lng": "52.0928338,-1.9501009"
     },
     {
       "name": "Pershore",
