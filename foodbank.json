@@ -205,11 +205,11 @@
       "urls": {
         "self": "https://www.givefood.org.uk/api/2/foodbank/ledbury/",
         "html": "https://www.givefood.org.uk/needs/at/ledbury/",
-        "homepage": "http://www.ledburyfoodbank.org/",
+        "homepage": "http://www.ledburyfoodbank.org",
         "shopping_list": "http://www.ledburyfoodbank.org/"
       },
-      "address": "St Katherines\r\nHigh St\r\nLedbury\r\nHR8 1DZ",
-      "lat_lng": "52.0368643,-2.4230797"
+      "address": "Homend Trading Estate\r\nLedbury\r\nHR8 1AR",
+      "lat_lng": "52.0448393,-2.4245093"
     },
     {
       "name": "Malvern Hills",
