@@ -116,6 +116,18 @@
       "lat_lng": "51.912742,-2.118213"
     },
     {
+      "name": "North Cotswold",
+      "slug": "north-cotswold",
+      "urls": {
+        "self": "https://www.givefood.org.uk/api/2/foodbank/north-cotswold/",
+        "html": "https://www.givefood.org.uk/needs/at/north-cotswold/",
+        "homepage": "https://northcotswold.foodbank.org.uk",
+        "shopping_list": "https://northcotswold.foodbank.org.uk/give-help/donate-food/"
+      },
+      "address": "Unit 2\r\nGlebe Farm Buildings\r\nGuiting Power\r\nCheltenham\r\nGloucestershire\r\nGL54 5TZ",
+      "lat_lng": "51.881985,-2.107152"
+    },
+    {
       "name": "Gloucester",
       "slug": "gloucester",
       "urls": {
@@ -138,18 +150,6 @@
       },
       "address": "76 Church Street\r\nTewkesbury\r\nGloucestershire\r\nGL20 5RX",
       "lat_lng": "51.991571,-2.159503"
-    },
-    {
-      "name": "North Cotswold",
-      "slug": "north-cotswold",
-      "urls": {
-        "self": "https://www.givefood.org.uk/api/2/foodbank/north-cotswold/",
-        "html": "https://www.givefood.org.uk/needs/at/north-cotswold/",
-        "homepage": "https://northcotswold.foodbank.org.uk",
-        "shopping_list": "https://northcotswold.foodbank.org.uk/give-help/donate-food/"
-      },
-      "address": "Unit 2\r\nGlebe Farm Buildings\r\nGuiting Power\r\nCheltenham\r\nGloucestershire\r\nGL54 5TZ",
-      "lat_lng": "51.921256,-1.862942"
     },
     {
       "name": "Stroud District",
