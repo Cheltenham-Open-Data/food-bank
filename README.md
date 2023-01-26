@@ -1,20 +1,19 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2023-01-05
+Last updated: 2023-01-25
 
 - Tinned Tomatoes
-- Biscuits
-- Cat Food
 - Dog Food
 - Sponge Puddings
-- Long Life Fruit Juice
+- Brown Sauce And Ketchup
 - Sweets And Chocolate
 - Jam
 - UHT Milk
-- Jam
-- Toilet Roll
-- Noodles
+- Coffee
+- Instant Mash Potatoes
+- Childrens Toothpaste And Tooth Brushes
+- Microwaveable Rice
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
