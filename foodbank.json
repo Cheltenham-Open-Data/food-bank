@@ -104,18 +104,6 @@
   },
   "nearby_foodbanks": [
     {
-      "name": "Springbank Community Group",
-      "slug": "springbank-community-group",
-      "urls": {
-        "self": "https://www.givefood.org.uk/api/2/foodbank/springbank-community-group/",
-        "html": "https://www.givefood.org.uk/needs/at/springbank-community-group/",
-        "homepage": "https://www.springbankcommunitygroup.org",
-        "shopping_list": "https://www.springbankcommunitygroup.org"
-      },
-      "address": "Ron Smith Pavilion\r\nSpringbank Way\r\nCheltenham\r\nGloucestershire\r\nGL51 0LH",
-      "lat_lng": "51.912742,-2.118213"
-    },
-    {
       "name": "North Cotswold",
       "slug": "north-cotswold",
       "urls": {
@@ -126,6 +114,18 @@
       },
       "address": "Unit 2\r\nGlebe Farm Buildings\r\nGuiting Power\r\nCheltenham\r\nGloucestershire\r\nGL54 5TZ",
       "lat_lng": "51.881985,-2.107152"
+    },
+    {
+      "name": "Springbank Community Group",
+      "slug": "springbank-community-group",
+      "urls": {
+        "self": "https://www.givefood.org.uk/api/2/foodbank/springbank-community-group/",
+        "html": "https://www.givefood.org.uk/needs/at/springbank-community-group/",
+        "homepage": "https://www.springbankcommunitygroup.org",
+        "shopping_list": "https://www.springbankcommunitygroup.org"
+      },
+      "address": "Ron Smith Pavilion\r\nSpringbank Way\r\nCheltenham\r\nGloucestershire\r\nGL51 0LH",
+      "lat_lng": "51.9129417,-2.118255"
     },
     {
       "name": "Gloucester",
