@@ -164,6 +164,18 @@
       "lat_lng": "51.72227909999999,-2.1988536"
     },
     {
+      "name": "Lord's Larder",
+      "slug": "lords-larder",
+      "urls": {
+        "self": "https://www.givefood.org.uk/api/2/foodbank/lords-larder/",
+        "html": "https://www.givefood.org.uk/needs/at/lords-larder/",
+        "homepage": "https://thelordslarder.org.uk",
+        "shopping_list": "https://thelordslarder.org.uk"
+      },
+      "address": "Basement\r\n8-10 Church Street\r\nNewent\r\nGL18 1PP",
+      "lat_lng": "51.9306034,-2.4045824"
+    },
+    {
       "name": "Cirencester",
       "slug": "cirencester",
       "urls": {
@@ -210,18 +222,6 @@
       },
       "address": "Homend Trading Estate\r\nLedbury\r\nHR8 1AR",
       "lat_lng": "52.0448393,-2.4245093"
-    },
-    {
-      "name": "Malvern Hills",
-      "slug": "malvern-hills",
-      "urls": {
-        "self": "https://www.givefood.org.uk/api/2/foodbank/malvern-hills/",
-        "html": "https://www.givefood.org.uk/needs/at/malvern-hills/",
-        "homepage": "https://malvernhills.foodbank.org.uk",
-        "shopping_list": "https://malvernhills.foodbank.org.uk/give-help/donate-food/"
-      },
-      "address": "Unit 4, Spring Court\r\nSpring Lane South\r\nMalvern\r\nWR14 1AT",
-      "lat_lng": "52.1243929,-2.305712"
     }
   ]
 }
