@@ -1,20 +1,16 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2023-04-14
+Last updated: 2023-05-19
 
-- Tinned Tomatoes
-- Jam
-- Pasta Sauce
-- Brown Sauce
+- Instant Mash
+- Cereal
+- Nappies (Size 6 And 7)
 - Savoury Snacks
+- Toilet Paper
 - Tinned Cold Meats
-- Sweets
-- Rice
-- Laundry Capsules
-- Shampoo
-- Children's Shampoo
-- Dog And Cat Food
+- Biscuits
+- Deodorant (Male And Female)
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
