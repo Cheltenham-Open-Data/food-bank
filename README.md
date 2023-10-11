@@ -1,16 +1,21 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2023-05-19
+Last updated: 2023-10-10
 
-- Instant Mash
+- Soup - Cans Or Packets
+- Instant Mash, Instant Noodles And Instant Rice
 - Cereal
-- Nappies (Size 6 And 7)
 - Savoury Snacks
-- Toilet Paper
-- Tinned Cold Meats
-- Biscuits
-- Deodorant (Male And Female)
+- Toilet Paper, Washing Up Liquid, Washing Powder
+- Tinned Hot & Cold Meats, Fish
+- Biscuits, Chocolates/sweets
+- Desserts - Hot Or Cold, Packets, Cans
+- Rice
+- Tins - Fruit, Vegetables, Tomatoes, Baked Beans
+- Drinks - Long Life Milk, Long Life Juices, Squash, Tea And Coffee
+- Baby Items - Nappies (Sizes 6 And 7), Baby Wipes, Baby Food - Jars, Packets
+- Toiletries - Shower Gel, Shampoo, Toothpaste, Toothbrushes, Soap, Deodorant, Sanitary Products
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
