@@ -152,6 +152,18 @@
       "lat_lng": "51.99150539999999,-2.1598628"
     },
     {
+      "name": "Poets Pantry",
+      "slug": "poets-pantry",
+      "urls": {
+        "self": "https://www.givefood.org.uk/api/2/foodbank/poets-pantry/",
+        "html": "https://www.givefood.org.uk/needs/at/poets-pantry/",
+        "homepage": "https://www.facebook.com/poetspantry2020",
+        "shopping_list": "https://www.facebook.com/poetspantry2020"
+      },
+      "address": "86-88 Masefield Avence\r\nGloucester\r\nGL2 5BA",
+      "lat_lng": "51.840556,-2.25786"
+    },
+    {
       "name": "Stroud District",
       "slug": "stroud-district",
       "urls": {
@@ -210,18 +222,6 @@
       },
       "address": "St Andrews\r\nChurch Walk\r\nPershore\r\nWR10 1BH",
       "lat_lng": "52.1111929,-2.0774925"
-    },
-    {
-      "name": "Ledbury",
-      "slug": "ledbury",
-      "urls": {
-        "self": "https://www.givefood.org.uk/api/2/foodbank/ledbury/",
-        "html": "https://www.givefood.org.uk/needs/at/ledbury/",
-        "homepage": "http://www.ledburyfoodbank.org",
-        "shopping_list": "http://www.ledburyfoodbank.org/"
-      },
-      "address": "Homend Trading Estate\r\nLedbury\r\nHR8 1AR",
-      "lat_lng": "52.04482429999999,-2.4254321"
     }
   ]
 }
