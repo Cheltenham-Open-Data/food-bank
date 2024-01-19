@@ -1,19 +1,18 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2023-12-31
+Last updated: 2024-01-18
 
 - Soup - Cans Or Packets
 - Instant Mash, Instant Noodles And Instant Rice
 - Savoury Snacks
 - Toilet Paper, Washing Up Liquid, Washing Powder (Powder Or Capsules Please Not Liquid)
 - Tinned Hot & Cold Meats, Fish
-- Biscuits, Chocolates/sweets
 - Desserts - Hot Or Cold, Packets, Cans
 - Rice
 - Tins - Fruit, Vegetables, Tomatoes, Baked Beans
 - Drinks - Long Life Milk, Long Life Juices, Squash, Tea And Coffee
-- Baby Items - Nappies (Sizes 6 And 7), Baby Wipes, Baby Food - Jars, Packets
+- Nappies And Pull Ups (Sizes 5, 6 And 7)
 - Toiletries - Shower Gel, Shampoo, Toothpaste, Toothbrushes, Soap, Deodorant
 <!-- summary_marker ends -->
 
