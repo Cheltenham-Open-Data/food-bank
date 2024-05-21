@@ -35,7 +35,7 @@
         "mp": "Alex Chalk",
         "mp_party": "Conservative",
         "mp_parl_id": 4481,
-        "ward": "Benhall and the Reddings",
+        "ward": "Benhall and The Reddings",
         "district": "Cheltenham",
         "urls": {
           "self": "https://www.givefood.org.uk/api/2/constituency/cheltenham/",
@@ -68,14 +68,14 @@
       "slug": "st-pauls",
       "address": "St Paul's Church\r\nSt Pauls Road\r\nCheltenham\r\nGL50 4EZ",
       "postcode": "GL50 4EZ",
-      "lat_lng": "51.9061071,-2.076569",
+      "lat_lng": "51.9057307,-2.0781827",
       "phone": null,
       "politics": {
         "parliamentary_constituency": "Cheltenham",
         "mp": "Alex Chalk",
         "mp_party": "Conservative",
         "mp_parl_id": 4481,
-        "ward": "St. Paul's",
+        "ward": "St Paul's",
         "district": "Cheltenham",
         "urls": {
           "self": "https://www.givefood.org.uk/api/2/constituency/cheltenham/",
