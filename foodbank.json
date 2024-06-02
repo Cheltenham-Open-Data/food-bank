@@ -164,6 +164,18 @@
       "lat_lng": "51.9212313,-1.8629509"
     },
     {
+      "name": "Cirencester",
+      "slug": "cirencester",
+      "urls": {
+        "self": "https://www.givefood.org.uk/api/2/foodbank/cirencester/",
+        "html": "https://www.givefood.org.uk/needs/at/cirencester/",
+        "homepage": "https://cirencester.foodbank.org.uk",
+        "shopping_list": "https://cirencester.foodbank.org.uk/give-help/donate-food/"
+      },
+      "address": "Unit 15\r\nInner Courtyard\r\nWhiteway Court\r\nCirencester\r\nGL7 7BA",
+      "lat_lng": "51.7252574,-1.9621244"
+    },
+    {
       "name": "Stroud District",
       "slug": "stroud-district",
       "urls": {
@@ -186,18 +198,6 @@
       },
       "address": "Basement\r\n8-10 Church Street\r\nNewent\r\nGL18 1PP",
       "lat_lng": "51.9306034,-2.4045824"
-    },
-    {
-      "name": "Cirencester",
-      "slug": "cirencester",
-      "urls": {
-        "self": "https://www.givefood.org.uk/api/2/foodbank/cirencester/",
-        "html": "https://www.givefood.org.uk/needs/at/cirencester/",
-        "homepage": "https://cirencester.foodbank.org.uk",
-        "shopping_list": "https://cirencester.foodbank.org.uk/give-help/donate-food/"
-      },
-      "address": "c/o Cirencester Baptist Church\r\nChesterton Lane\r\nCirencester\r\nGL7 1YE",
-      "lat_lng": "51.70796439999999,-1.9630179"
     },
     {
       "name": "Caring Hands",
