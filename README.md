@@ -1,18 +1,19 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2024-04-11
+Last updated: 2024-06-20
 
+- Cereal
 - Soup - Cans Or Packets
 - Instant Mash, Instant Noodles And Instant Rice
-- Snacks - Choc / Sweets And Also Savoury
+- Snacks - Choc / Sweets And Also Savoury Snacks
 - Toilet Paper, Washing Up Liquid, Washing Powder (Powder Or Capsules Please Not Liquid)
 - Tinned Cold Meats And Fish
 - Desserts - Hot Or Cold, Packets, Cans And Jam
 - Rice And Pasta
-- Tins - Fruit, Vegetables, Tomatoes, Baked Beans
+- Tins - Fruit, Vegetables, Tomatoes, Baked Beans, Pulses
 - Drinks - Long Life Dairy Milk, Long Life Juices, Squash, Tea And Coffee
-- Toiletries - Shower Gel, Shampoo, Toothpaste, Toothbrushes, Soap, Deodorant
+- Toiletries - Shower Gel, Shampoo, Toothbrushes, Soap, Deodorant
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
