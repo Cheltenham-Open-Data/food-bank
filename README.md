@@ -1,7 +1,7 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2024-06-20
+Last updated: 2024-08-22
 
 - Cereal
 - Soup - Cans Or Packets
@@ -14,6 +14,7 @@ Last updated: 2024-06-20
 - Tins - Fruit, Vegetables, Tomatoes, Baked Beans, Pulses
 - Drinks - Long Life Dairy Milk, Long Life Juices, Squash, Tea And Coffee
 - Toiletries - Shower Gel, Shampoo, Toothbrushes, Soap, Deodorant
+- Nappies Size 6plus
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
