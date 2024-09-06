@@ -104,6 +104,18 @@
   },
   "nearby_foodbanks": [
     {
+      "name": "Cheltenham Open Door",
+      "slug": "cheltenham-open-door",
+      "urls": {
+        "self": "https://www.givefood.org.uk/api/2/foodbank/cheltenham-open-door/",
+        "html": "https://www.givefood.org.uk/needs/at/cheltenham-open-door/",
+        "homepage": "https://cheltenhamopendoor.org.uk",
+        "shopping_list": "https://cheltenhamopendoor.org.uk/donate/"
+      },
+      "address": "Unit 3\r\nSt George’s Business Park\r\nAlstone Lane\r\nCheltenham\r\nGL51 8HF",
+      "lat_lng": "51.90259959999999,-2.0968695"
+    },
+    {
       "name": "Springbank Community Group",
       "slug": "springbank-community-group",
       "urls": {
@@ -210,18 +222,6 @@
       },
       "address": "Vale Of Evesham Christian Centre\r\nBewdley Street\r\nEvesham\r\nWR11 4AD",
       "lat_lng": "52.0928338,-1.9501009"
-    },
-    {
-      "name": "Pershore",
-      "slug": "pershore",
-      "urls": {
-        "self": "https://www.givefood.org.uk/api/2/foodbank/pershore/",
-        "html": "https://www.givefood.org.uk/needs/at/pershore/",
-        "homepage": "https://pershore.foodbank.org.uk",
-        "shopping_list": "https://pershore.foodbank.org.uk/give-help/donate-food/"
-      },
-      "address": "St Andrews\r\nChurch Walk\r\nPershore\r\nWR10 1BH",
-      "lat_lng": "52.1103735,-2.0768572"
     }
   ]
 }
