@@ -96,11 +96,11 @@
     }
   },
   "need": {
-    "id": "a78e0567",
-    "needs": "Cereal\nSoup - Cans Or Packets\nInstant Mash, Instant Noodles And Instant Rice\nSnacks - Choc / Sweets And Also Savoury Snacks\nToilet Paper, Washing Up Liquid, Washing Powder (Powder Or Capsules Please Not Liquid)\nTinned Cold Meats And Fish\nDesserts - Hot Or Cold, Packets, Cans And Jam\nRice And Pasta\nTins - Fruit, Vegetables, Tomatoes, Baked Beans, Pulses\nDrinks - Long Life Dairy Milk, Long Life Juices, Squash, Tea And Coffee\nToiletries - Shower Gel, Shampoo, Toothbrushes, Soap, Deodorant\nNappies Size 6plus",
-    "excess": "Nappies In Most Sizes\nSanitary Products\nBaby Food\nNon-dairy Milk\nToothpaste",
-    "created": "2024-08-22T13:53:49.101",
-    "self": "https://www.givefood.org.uk/api/2/need/a78e0567/"
+    "id": "7dfae45e",
+    "needs": "Cereal\nSoup - Cans Or Packets\nToilet Paper, Washing Up Liquid, Washing Powder (Powder Or Capsules Please Not Liquid)\nTinned Cold Meats And Fish\nDesserts - Hot Or Cold, Packets, Cans And Jam\nTinned Fruit And Vegetables",
+    "excess": "Nappies In Most Sizes (We Do Need Size 6plus)\nSanitary Products\nBaby Food\nNon-dairy Milk\nToothpaste",
+    "created": "2024-10-14T09:02:49.814",
+    "self": "https://www.givefood.org.uk/api/2/need/7dfae45e/"
   },
   "nearby_foodbanks": [
     {
