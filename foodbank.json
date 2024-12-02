@@ -9,7 +9,7 @@
   "postcode": "GL50 3ED",
   "closed": false,
   "lat_lng": "51.90106189999999,-2.0857083",
-  "network": "Trussell Trust",
+  "network": "Trussell",
   "created": "2019-11-15T17:12:20.382",
   "urls": {
     "self": "https://www.givefood.org.uk/api/2/foodbank/cheltenham/",
