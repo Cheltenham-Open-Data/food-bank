@@ -1,14 +1,15 @@
 <!-- summary_marker starts -->
 ## List of needed items in Cheltenham
 
-Last updated: 2024-11-01
+Last updated: 2025-01-08
 
-- Soup - Cans Or Packets
-- Toilet Paper, Washing Up Liquid, Washing Powder (Powder Or Capsules Please, Not Liquid)
-- Tinned Cold Meats And Fish
-- Desserts - Hot Or Cold, Packets, Cans And Jam
-- Tinned Fruit And Vegetables
-- Nappies Size 5
+- Tinned Cold Meat (Or Fish)
+- Pasta Sauce
+- Washing Up Liquid
+- Washing Powder
+- Soup
+- Desserts
+- Deodorants
 <!-- summary_marker ends -->
 
 [shopping list](https://cheltenham.foodbank.org.uk/give-help/donate-food/)
