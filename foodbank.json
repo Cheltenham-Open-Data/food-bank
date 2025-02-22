@@ -152,18 +152,6 @@
       "lat_lng": "51.99148229999999,-2.1597841"
     },
     {
-      "name": "Poets Pantry",
-      "slug": "poets-pantry",
-      "urls": {
-        "self": "https://www.givefood.org.uk/api/2/foodbank/poets-pantry/",
-        "html": "https://www.givefood.org.uk/needs/at/poets-pantry/",
-        "homepage": "https://www.facebook.com/poetspantry2020",
-        "shopping_list": "https://www.facebook.com/poetspantry2020"
-      },
-      "address": "86-88 Masefield Avence\r\nGloucester\r\nGL2 5BA",
-      "lat_lng": "51.840556,-2.25786"
-    },
-    {
       "name": "North Cotswold",
       "slug": "north-cotswold",
       "urls": {
@@ -222,6 +210,18 @@
       },
       "address": "Vale Of Evesham Christian Centre\r\nBewdley Street\r\nEvesham\r\nWR11 4AD",
       "lat_lng": "52.0928338,-1.9501009"
+    },
+    {
+      "name": "Pershore",
+      "slug": "pershore",
+      "urls": {
+        "self": "https://www.givefood.org.uk/api/2/foodbank/pershore/",
+        "html": "https://www.givefood.org.uk/needs/at/pershore/",
+        "homepage": "https://pershore.foodbank.org.uk",
+        "shopping_list": "https://pershore.foodbank.org.uk/give-help/donate-food/"
+      },
+      "address": "St Andrews\r\nChurch Walk\r\nPershore\r\nWR10 1BH",
+      "lat_lng": "52.1103735,-2.0768572"
     }
   ]
 }
